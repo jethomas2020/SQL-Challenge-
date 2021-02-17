@@ -32,6 +32,7 @@ Data Engineering
 
     Imported each CSV file into the corresponding SQL table. (Note: imported the data in the same order that the tables were created and accounted for the headers when importing to avoid errors.)
 
+-------
 Data Analysis
 
 Once we have a complete database, we explored the following in our data analysis:
