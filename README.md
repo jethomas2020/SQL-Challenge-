@@ -61,5 +61,7 @@ Artifacts:
     2. Created a .sql file of the table schemata.
 
     3. Created a .sql file of the queries.
+    
+    4. csv data files  
 
 
