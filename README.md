@@ -53,7 +53,7 @@ Once we have a complete database, we explored the following in our data analysis
 
     8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-
+-------
 Artifacts:
 
     1. Created an image file of the ERD (along with the text file).
