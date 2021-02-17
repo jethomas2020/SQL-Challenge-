@@ -19,23 +19,23 @@ Note: You may hear the term "Data Modeling" in place of "Data Engineering," but 
 
 Data Modeling
 
-Inspect the CSVs and sketch out an ERD of the tables. We used the tool from http://www.quickdatabasediagrams.com.
+We inspect the CSVs and sketched out an ERD of the tables. We used the tool from http://www.quickdatabasediagrams.com.
 
 Data Engineering
 
-    Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
-        For the primary keys check to see if the column is unique, otherwise create a composite key. Which takes to primary keys in order to uniquely identify a row.
-        Be sure to create tables in the correct order to handle foreign keys.
+    Using the information we created a table schema for each of the six CSV files. We specified data types, primary keys, foreign keys, and other constraints.
+        For the primary keys, we checked to see if the column is unique, otherwise create a composite key. Which takes to primary keys in order to uniquely identify a row.
+        We created tables in the correct order to handle foreign keys.
 
-    Import each CSV file into the corresponding SQL table. Note be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
+    Imported each CSV file into the corresponding SQL table. (Note: imported the data in the same order that the tables were created and accounted for the headers when importing to avoid errors.)
 
 Data Analysis
 
-Once you have a complete database, do the following:
+Once we have a complete database, we explored the following in our analysis:
 
-    List the following details of each employee: employee number, last name, first name, sex, and salary.
+    1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
-    List first name, last name, and hire date for employees who were hired in 1986.
+    2. List first name, last name, and hire date for employees who were hired in 1986.
 
     List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
