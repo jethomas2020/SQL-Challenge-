@@ -23,6 +23,7 @@ Data Modeling
 
 We inspect the CSVs and sketched out an ERD of the tables. We used the tool from http://www.quickdatabasediagrams.com.
 
+-------
 Data Engineering
 
     Using the information we created a table schema for each of the six CSV files. We specified data types, primary keys, foreign keys, and other constraints.
