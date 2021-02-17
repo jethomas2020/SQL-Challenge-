@@ -56,7 +56,7 @@ Once we have a complete database, we explored the following in our data analysis
 -------
 Artifacts:
 
-    1. Created an image file of the ERD (along with the text file).
+    1. Created an image file of the ERD (included text file also created from ERD).
 
     2. Created a .sql file of the table schemata.
 
