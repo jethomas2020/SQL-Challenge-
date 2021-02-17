@@ -31,7 +31,7 @@ Data Engineering
 
 Data Analysis
 
-Once we have a complete database, we explored the following in our analysis:
+Once we have a complete database, we explored the following in our data analysis:
 
     1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
